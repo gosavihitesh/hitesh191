@@ -2,8 +2,8 @@ package Exercise_11
 
 import "fmt"
 
-const AGE int = 26
+const AGE int = 25
 
 func main() {
-fmt.Println("Corey is",AGE,"years old.")
+fmt.Println("Hitesh is",AGE,"years old.")
 }
