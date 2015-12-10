@@ -2,7 +2,7 @@ package Exercise14
 import "fmt"
 
 func main() {
-	first := "Corey "
-	last := "Dihel"
+	first := "hitesh "
+	last := "gosavi"
 	fmt.Println("Name:",first+last)
 }

@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	name := "Corey"
+	name := "hitesh"
 	fmt.Println("Name:",name)
 	fmt.Println("Has",len(name),"letters.")
 }

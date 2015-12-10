@@ -8,9 +8,9 @@ func printStrings(a ...string){
 }
 
 func main() {
-	a:="Corey"
-	b:="Brandy"
-	c:= []string{"Alex","Aaron","Taylor"}
+	a:="hitesh"
+	b:="gosavi"
+	c:= []string{"ajay","nikhil","dev"}
 	printStrings(a,b)
 	printStrings(c...)
 }

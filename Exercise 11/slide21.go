@@ -1,4 +1,4 @@
-package Exercise_11
+package slide21
 
 import "fmt"
 

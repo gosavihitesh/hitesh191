@@ -2,7 +2,7 @@ package Exercise14
 import "fmt"
 
 func main() {
-	name := "Corey"
+	name := "hitesh"
 	fmt.Println(name)
 	fmt.Println([]byte(name))
 }
