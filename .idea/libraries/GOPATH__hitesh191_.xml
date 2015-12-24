@@ -6,10 +6,12 @@
     <SOURCES />
     <excluded>
       <root url="file://$PROJECT_DIR$/.git" />
+      <root url="file://$PROJECT_DIR$/../finalpro-web/.git" />
       <root url="file://$PROJECT_DIR$/.idea" />
       <root url="file://$PROJECT_DIR$/../GolangTraining/.git" />
       <root url="file://$PROJECT_DIR$/../fall2015/.git" />
       <root url="file://$PROJECT_DIR$/../fall2015/.idea" />
+      <root url="file://$PROJECT_DIR$/../finalpro-web/.idea" />
       <root url="file://$PROJECT_DIR$" />
       <root url="file://$PROJECT_DIR$/../GolangTraining/.idea" />
     </excluded>
